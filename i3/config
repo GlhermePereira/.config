@@ -1,0 +1,195 @@
+##################################
+############# MODKEY #############
+##################################
+
+set $mod Mod1
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+
+
+##################################
+############ MONITOR #############
+##################################
+
+set $rm HDMI-0
+set $lm DVI-D-0
+
+workspace 1 output $rm
+workspace 2 output $rm
+workspace 3 output $rm
+workspace 4 output $rm
+workspace 5 output $rm
+workspace 6 output $lm
+workspace 7 output $lm
+workspace 8 output $lm
+workspace 9 output $lm
+
+
+##################################
+############# FONTS ##############
+##################################
+
+#font pango:SymbolaRegular 12
+font pango:FiraCode Nerd Font Regular 12
+
+
+##################################
+########## KEY BINDINGS ##########
+##################################
+
+bindsym $mod+Return exec alacritty
+bindsym $mod+q kill
+bindsym $mod+r exec alacritty -e ranger
+#bindsym $mod+F1 exec thorium-browser
+bindsym $mod+F1 exec firefox
+#bindsym $mod+F1 exec /home/glherme/midori/./midori
+#bindsym $mod+F2 exec dmenu_run -i -p 'Apps '
+
+bindsym $mod+F2 exec rofi -show drun -theme ~/.config/rofi/launchers/type-5/style-4.rasi
+
+
+bindsym $mod+F3 exec thunar
+
+
+#bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+#bindsym $mod+Right focus right
+
+bindsym $mod+h focus left
+bindsym $mod+l focus right
+
+
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+# split in horizontal orientation
+bindsym $mod+u split h
+
+# split in vertical orientation
+bindsym $mod+v split v
+
+bindsym $mod+d layout stacking
+bindsym $mod+t layout tabbed
+bindsym $mod+e layout toggle split
+
+bindsym $mod+n floating toggle
+
+bindsym $mod+m fullscreen toggle
+
+#Flameshot is a decent alternative.
+
+#bindsym Print       exec flameshot full
+#bindsym Shift+Print exec flameshot gui
+
+#You can use option -p /path/to/directory to skip selecting the save directory.
+
+#You can edit config in here ~/.config/i3/config and reload the config using i3-msg reload.
+
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle
+bindsym Print exec flameshot full
+bindsym Shift+Print exec flameshot gui
+# focus the parent container
+bindsym $mod+a focus parent
+
+bindsym $mod+1 workspace 1
+bindsym $mod+2 workspace 2
+bindsym $mod+3 workspace 3
+bindsym $mod+4 workspace 4
+bindsym $mod+5 workspace 5
+bindsym $mod+6 workspace 6
+bindsym $mod+7 workspace 7
+bindsym $mod+8 workspace 8
+bindsym $mod+9 workspace 9
+bindsym $mod+0 workspace 10
+
+bindsym $mod+Shift+1 move container to workspace 1
+bindsym $mod+Shift+2 move container to workspace 2
+bindsym $mod+Shift+3 move container to workspace 3
+bindsym $mod+Shift+4 move container to workspace 4
+bindsym $mod+Shift+5 move container to workspace 5
+bindsym $mod+Shift+6 move container to workspace 6
+bindsym $mod+Shift+7 move container to workspace 7
+bindsym $mod+Shift+8 move container to workspace 8
+bindsym $mod+Shift+9 move container to workspace 9
+bindsym $mod+Shift+0 move container to workspace 10
+
+bindsym $mod+Shift+c reload
+bindsym $mod+Shift+r restart
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+
+
+bindsym $mod+Ctrl+Right resize shrink width 1 px or 1 ppt
+bindsym $mod+Ctrl+Up resize grow height 1 px or 1 ppt
+bindsym $mod+Ctrl+Down resize shrink height 1 px or 1 ppt
+bindsym $mod+Ctrl+Left resize grow width 1 px or 1 ppt
+
+
+###################################
+############### BAR ###############
+###################################
+
+
+ #bar {
+ #	font pango:Source Sans Pro-10 10
+	#status_command i3blocks -c ~/.i3/i3blocks.conf
+  #colors {
+    #separator #268bd2
+    #background #002b36
+    #statusline #839496
+    #focused_workspace #fdf6e3 #6c71c4 #fdf6e3
+    #active_workspace #fdf6e3 #6c71c4 #fdf6e3
+   # inactive_workspace #002b36 #586e75 #002b36
+  #  urgent_workspace #d33682 #d33682 #fdf6e3
+ # }
+#}
+#client.focused #6c71c4 #6c71c4 #fdf6e3 #6c71c4
+#client.focused_inactive #073642 #073642 #eee8d5 #6c71c4
+#client.unfocused #073642 #073642 #93a1a1 #586e75
+#client.urgent #d33682 #d33682 #fdf6e3 #dc322f
+
+
+
+
+
+
+###################################
+############# BORDERS #############
+###################################
+
+
+for_window [class="^.*"] border pixel 1
+new_window 1pixel
+client.focused #FFFFFF #FFFFFF #FFFFFF #FFFFFF
+
+
+##################################
+############## GAPS ##############
+##################################
+
+gaps inner 1
+gaps outer 0
+
+
+
+
+
+##################################
+############# START #############
+##################################
+
+#exec --no-startup-id ~/.config/polybar/launch.sh --forest
+#exec --no-startup-id fc-cache -fv
+# Iniciar o brightness-controller no workspace 10
+exec --no-startup-id i3-msg 'workspace 10; exec /usr/bin/brightness-controller'
+exec_always --no-startup-id killall polybar
+exec_always --no-startup-id ~/.config/polybar/launch.sh --forest
+exec_always feh --bg-scale /home/glherme/arch-minimal-wallpapers/wallpapers/full-hd/dracula.png
+#exec_always --no-startup-id [ ! -s ~/.config/mpd/pid ] && mpd 
+## Launch Polybar with random wallpaper
+#exec --no-startup-id i3-msg 'workspace 1; exec /home/glherme/midori/./midori'

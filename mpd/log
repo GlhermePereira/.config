@@ -1,0 +1,264 @@
+Oct 14 21:59 : update: added /Da Ponte pra Cá.mp3
+Oct 14 21:59 : update: added /Vivências.mp3
+Oct 14 21:59 : update: added /Vida Loka, Pt. 2.mp3
+Oct 14 21:59 : update: added /Cartão Black.mp3
+Oct 14 21:59 : update: added /Maturidade.mp3
+Oct 14 21:59 : update: added /0425.mp3
+Oct 14 21:59 : update: added /Vida Loka, Pt. 1.mp3
+Oct 14 21:59 : update: added /Segredo.mp3
+Oct 14 21:59 : update: added /Jesus Chorou.mp3
+Oct 14 21:59 : update: added /Estilo Cachorro.mp3
+Oct 14 21:59 : update: added /Vestido da Fendi.mp3
+Oct 14 21:59 : update: added /VAI POR MIM.mp3
+Oct 14 21:59 : update: added /Negro Drama.mp3
+Oct 14 21:59 : update: added /Jacaré Que Dorme.mp3
+Oct 14 21:59 : update: added /Freestyle.mp3
+Oct 14 21:59 : update: added /Preferida.mp3
+Oct 14 21:59 : update: added /Mistérios.mp3
+Oct 14 21:59 : update: added /Outfit Valioso 2.mp3
+Oct 14 21:59 : update: added /Eu Sou 157.mp3
+Oct 14 21:59 : update: added /Qual Mentira Vou Acreditar.mp3
+Oct 14 21:59 : update: added /Capítulo 4, Versículo 3.mp3
+Oct 14 21:59 : update: added /Melhor Só.mp3
+Oct 14 21:59 : update: added /1 por Amor, 2 por Dinheiro.mp3
+Oct 14 21:59 : update: added /Carta pra Deus.mp3
+Oct 14 21:59 : update: added /CONFISSÕES PT2.mp3
+Oct 14 21:59 : update: added /Jorge da Capadócia.mp3
+Oct 14 21:59 : update: added /Diário de um Detento.mp3
+Oct 14 21:59 : update: added /Homem na Estrada.mp3
+Oct 14 21:59 : update: added /Meca Cereja.mp3
+Oct 14 21:59 : update: added /A Vida É Desafio.mp3
+Oct 14 21:59 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Oct 14 22:01 : mixer: Failed to read mixer for 'Alsa Output': no such mixer control: PCM
+Oct 14 22:38 : mixer: Failed to read mixer for 'Alsa Output': no such mixer control: PCM
+Oct 14 23:05 : mixer: Failed to read mixer for 'Alsa Output': no such mixer control: PCM
+Oct 15 09:20 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Oct 15 09:23 : mixer: Failed to read mixer for 'Default ALSA Output': no such mixer control: PCM
+Oct 15 09:33 : mixer: Failed to read mixer for 'Default ALSA Output': no such mixer control: PCM
+Oct 15 10:06 : player: played "0425.mp3"
+Oct 15 10:08 : player: played "0425.mp3"
+Oct 15 10:10 : player: played "0425.mp3"
+Oct 15 10:22 : exception: Bad song index
+Oct 15 10:32 : exception: Unsupported URI scheme
+Oct 15 10:32 : exception: Failed to open '/home/glherme/Music/playlists/[Radio Streams].m3u': No such file or directory
+Oct 15 10:32 : exception: No such playlist
+Oct 15 10:34 : exception: Failed to open '/home/glherme/Music/playlists/[Radio Streams].m3u': No such file or directory
+Oct 15 10:34 : exception: No such playlist
+Oct 15 10:34 : player: played "0425.mp3"
+Oct 15 10:34 : exception: Unsupported URI scheme
+Oct 15 10:34 : exception: Failed to open '/home/glherme/Music/playlists/[Radio Streams].m3u': No such file or directory
+Oct 15 10:34 : exception: No such playlist
+Oct 15 10:34 : player: played "0425.mp3"
+Oct 15 10:35 : player: played "Carta pra Deus.mp3"
+Oct 15 10:35 : player: played "A Vida É Desafio.mp3"
+Oct 15 10:36 : player: played "Vida Loka, Pt. 1.mp3"
+Oct 15 10:36 : player: played "0425.mp3"
+Oct 15 10:37 : player: played "A Vida É Desafio.mp3"
+Oct 15 10:41 : exception: Bad song index
+Oct 15 18:52 : exception: Not playing
+Oct 15 18:53 : player: played "Carta pra Deus.mp3"
+Oct 15 19:05 : player: played "Freestyle.mp3"
+Oct 16 09:53 : player: played "Homem na Estrada.mp3"
+Oct 17 16:36 : exception: Bad song index
+Oct 17 16:46 : update: removing 0425.mp3
+Oct 17 16:46 : update: removing CONFISSÕES PT2.mp3
+Oct 17 16:46 : update: removing Cartão Black.mp3
+Oct 17 16:46 : update: removing Carta pra Deus.mp3
+Oct 17 16:46 : update: removing Jacaré Que Dorme.mp3
+Oct 17 16:46 : update: removing Freestyle.mp3
+Oct 17 16:46 : update: removing Meca Cereja.mp3
+Oct 17 16:46 : update: removing Maturidade.mp3
+Oct 17 16:46 : update: removing Mistérios.mp3
+Oct 17 16:46 : update: removing Melhor Só.mp3
+Oct 17 16:46 : update: removing Outfit Valioso 2.mp3
+Oct 17 16:46 : update: removing Preferida.mp3
+Oct 17 16:46 : update: removing Segredo.mp3
+Oct 17 16:46 : update: removing Vestido da Fendi.mp3
+Oct 17 16:46 : update: removing VAI POR MIM.mp3
+Oct 17 16:46 : update: removing Vivências.mp3
+Oct 17 16:46 : update: added playlists/Rap/0425.mp3
+Oct 17 16:46 : update: added playlists/Trap/Vivências.mp3
+Oct 17 16:46 : update: added playlists/Trap/Cartão Black.mp3
+Oct 17 16:46 : update: added playlists/Trap/Maturidade.mp3
+Oct 17 16:46 : update: added playlists/Trap/Segredo.mp3
+Oct 17 16:46 : update: added playlists/Trap/Vestido da Fendi.mp3
+Oct 17 16:46 : update: added playlists/Trap/VAI POR MIM.mp3
+Oct 17 16:46 : update: added playlists/Trap/Jacaré Que Dorme.mp3
+Oct 17 16:46 : update: added playlists/Trap/Freestyle.mp3
+Oct 17 16:46 : update: added playlists/Trap/Preferida.mp3
+Oct 17 16:46 : update: added playlists/Trap/Mistérios.mp3
+Oct 17 16:46 : update: added playlists/Trap/Outfit Valioso 2.mp3
+Oct 17 16:46 : update: added playlists/Trap/Melhor Só.mp3
+Oct 17 16:46 : update: added playlists/Trap/Carta pra Deus.mp3
+Oct 17 16:46 : update: added playlists/Trap/CONFISSÕES PT2.mp3
+Oct 17 16:46 : update: added playlists/Trap/Meca Cereja.mp3
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/1 por Amor, 2 por Dinheiro.mp3; Failed to open '/home/glherme/Music/1 por Amor, 2 por Dinheiro.mp3': No such file or directory
+Oct 17 16:46 : player: played "1 por Amor, 2 por Dinheiro.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/1 por Amor, 2 por Dinheiro.mp3; Failed to open '/home/glherme/Music/1 por Amor, 2 por Dinheiro.mp3': No such file or directory
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/A Vida É Desafio.mp3; Failed to open '/home/glherme/Music/A Vida É Desafio.mp3': No such file or directory
+Oct 17 16:46 : player: played "A Vida É Desafio.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Capítulo 4, Versículo 3.mp3; Failed to open '/home/glherme/Music/Capítulo 4, Versículo 3.mp3': No such file or directory
+Oct 17 16:46 : player: played "Capítulo 4, Versículo 3.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Da Ponte pra Cá.mp3; Failed to open '/home/glherme/Music/Da Ponte pra Cá.mp3': No such file or directory
+Oct 17 16:46 : player: played "Da Ponte pra Cá.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Diário de um Detento.mp3; Failed to open '/home/glherme/Music/Diário de um Detento.mp3': No such file or directory
+Oct 17 16:46 : player: played "Diário de um Detento.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Estilo Cachorro.mp3; Failed to open '/home/glherme/Music/Estilo Cachorro.mp3': No such file or directory
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Eu Sou 157.mp3; Failed to open '/home/glherme/Music/Eu Sou 157.mp3': No such file or directory
+Oct 17 16:46 : player: played "Estilo Cachorro.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Eu Sou 157.mp3; Failed to open '/home/glherme/Music/Eu Sou 157.mp3': No such file or directory
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Homem na Estrada.mp3; Failed to open '/home/glherme/Music/Homem na Estrada.mp3': No such file or directory
+Oct 17 16:46 : player: played "Eu Sou 157.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Homem na Estrada.mp3; Failed to open '/home/glherme/Music/Homem na Estrada.mp3': No such file or directory
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Jesus Chorou.mp3; Failed to open '/home/glherme/Music/Jesus Chorou.mp3': No such file or directory
+Oct 17 16:46 : player: played "Homem na Estrada.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Jesus Chorou.mp3; Failed to open '/home/glherme/Music/Jesus Chorou.mp3': No such file or directory
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Jorge da Capadócia.mp3; Failed to open '/home/glherme/Music/Jorge da Capadócia.mp3': No such file or directory
+Oct 17 16:46 : player: played "Jesus Chorou.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Jorge da Capadócia.mp3; Failed to open '/home/glherme/Music/Jorge da Capadócia.mp3': No such file or directory
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Negro Drama.mp3; Failed to open '/home/glherme/Music/Negro Drama.mp3': No such file or directory
+Oct 17 16:46 : player: played "Jorge da Capadócia.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Negro Drama.mp3; Failed to open '/home/glherme/Music/Negro Drama.mp3': No such file or directory
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Qual Mentira Vou Acreditar.mp3; Failed to open '/home/glherme/Music/Qual Mentira Vou Acreditar.mp3': No such file or directory
+Oct 17 16:46 : player: played "Negro Drama.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Qual Mentira Vou Acreditar.mp3; Failed to open '/home/glherme/Music/Qual Mentira Vou Acreditar.mp3': No such file or directory
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Vida Loka, Pt. 1.mp3; Failed to open '/home/glherme/Music/Vida Loka, Pt. 1.mp3': No such file or directory
+Oct 17 16:46 : player: played "Qual Mentira Vou Acreditar.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Vida Loka, Pt. 1.mp3; Failed to open '/home/glherme/Music/Vida Loka, Pt. 1.mp3': No such file or directory
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Vida Loka, Pt. 2.mp3; Failed to open '/home/glherme/Music/Vida Loka, Pt. 2.mp3': No such file or directory
+Oct 17 16:46 : player: played "Vida Loka, Pt. 1.mp3"
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/Vida Loka, Pt. 2.mp3; Failed to open '/home/glherme/Music/Vida Loka, Pt. 2.mp3': No such file or directory
+Oct 17 16:46 : player: played "Vida Loka, Pt. 2.mp3"
+Oct 17 16:46 : update: removing A Vida É Desafio.mp3
+Oct 17 16:46 : update: removing 1 por Amor, 2 por Dinheiro.mp3
+Oct 17 16:46 : update: removing Homem na Estrada.mp3
+Oct 17 16:46 : update: removing Eu Sou 157.mp3
+Oct 17 16:46 : update: removing Estilo Cachorro.mp3
+Oct 17 16:46 : update: removing Diário de um Detento.mp3
+Oct 17 16:46 : update: removing Da Ponte pra Cá.mp3
+Oct 17 16:46 : update: removing Capítulo 4, Versículo 3.mp3
+Oct 17 16:46 : update: removing Vida Loka, Pt. 2.mp3
+Oct 17 16:46 : update: removing Vida Loka, Pt. 1.mp3
+Oct 17 16:46 : update: removing Qual Mentira Vou Acreditar.mp3
+Oct 17 16:46 : update: removing Negro Drama.mp3
+Oct 17 16:46 : update: removing Jorge da Capadócia.mp3
+Oct 17 16:46 : update: removing Jesus Chorou.mp3
+Oct 17 16:46 : update: added playlists/Rap/Da Ponte pra Cá.mp3
+Oct 17 16:46 : update: added playlists/Rap/Vida Loka, Pt. 2.mp3
+Oct 17 16:46 : update: added playlists/Rap/Vida Loka, Pt. 1.mp3
+Oct 17 16:46 : update: added playlists/Rap/Jesus Chorou.mp3
+Oct 17 16:46 : update: added playlists/Rap/Estilo Cachorro.mp3
+Oct 17 16:46 : update: added playlists/Rap/Negro Drama.mp3
+Oct 17 16:46 : update: added playlists/Rap/Eu Sou 157.mp3
+Oct 17 16:46 : update: added playlists/Rap/Qual Mentira Vou Acreditar.mp3
+Oct 17 16:46 : update: added playlists/Rap/Capítulo 4, Versículo 3.mp3
+Oct 17 16:46 : update: added playlists/Rap/1 por Amor, 2 por Dinheiro.mp3
+Oct 17 16:46 : update: added playlists/Rap/Jorge da Capadócia.mp3
+Oct 17 16:46 : update: added playlists/Rap/Diário de um Detento.mp3
+Oct 17 16:46 : update: added playlists/Rap/Homem na Estrada.mp3
+Oct 17 16:46 : update: added playlists/Rap/A Vida É Desafio.mp3
+Oct 17 16:46 : exception: Failed to decode /home/glherme/Music/0425.mp3; Failed to open '/home/glherme/Music/0425.mp3': No such file or directory
+Oct 17 16:46 : player: played "0425.mp3"
+Oct 17 16:46 : exception: Not playing
+Oct 17 16:48 : exception: Unsupported URI scheme
+Oct 17 16:48 : exception: Failed to open '/home/glherme/Music/playlists/[Radio Streams].m3u': No such file or directory
+Oct 17 16:48 : exception: No such playlist
+Oct 17 16:55 : player: played "playlists/Rap/A Vida É Desafio.mp3"
+Oct 17 17:40 : player: played "playlists/Rap/Capítulo 4, Versículo 3.mp3"
+Oct 17 17:49 : player: played "playlists/Rap/Da Ponte pra Cá.mp3"
+Oct 17 17:57 : player: played "playlists/Rap/Diário de um Detento.mp3"
+Oct 17 18:03 : player: played "playlists/Rap/Estilo Cachorro.mp3"
+Oct 17 18:12 : player: played "playlists/Rap/Eu Sou 157.mp3"
+Oct 17 18:20 : player: played "playlists/Rap/Homem na Estrada.mp3"
+Oct 17 18:24 : player: played "playlists/Rap/Jesus Chorou.mp3"
+Oct 17 18:28 : player: played "playlists/Trap/Carta pra Deus.mp3"
+Oct 17 18:30 : player: played "playlists/Trap/Segredo.mp3"
+Oct 17 18:34 : player: played "playlists/Trap/Melhor Só.mp3"
+Oct 17 18:37 : player: played "playlists/Trap/VAI POR MIM.mp3"
+Oct 17 18:47 : player: played "playlists/Trap/Vestido da Fendi.mp3"
+Oct 17 18:49 : player: played "playlists/Trap/CONFISSÕES PT2.mp3"
+Oct 17 18:57 : player: played "playlists/Rap/Jesus Chorou.mp3"
+Oct 17 18:59 : update: added /Mandona (Se eu te dissesse).mp3
+Oct 17 18:59 : update: added /brinks.mp3
+Oct 17 19:00 : update: added /Preto e Dinheiro.mp3
+Oct 17 19:00 : player: played "playlists/Trap/Freestyle.mp3"
+Oct 17 19:00 : update: added /Mirante.mp3
+Oct 17 19:01 : update: added /Vamo Marolar.mp3
+Oct 17 19:01 : update: added /Engana Dizendo Que Ama.mp3
+Oct 17 19:01 : update: added /Good Vibe.mp3
+Oct 17 19:01 : update: updating /Engana Dizendo Que Ama.mp3
+Oct 17 19:01 : update: added /Lágrimas de Crocodilo.mp3
+Oct 17 19:01 : update: added /Met Gala.mp3
+Oct 17 19:01 : update: updating /Lágrimas de Crocodilo.mp3
+Oct 17 19:01 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Oct 17 19:01 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Oct 17 19:01 : ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+Oct 17 19:01 : update: added /X1.mp3
+Oct 17 19:01 : update: added /Cavalona.mp3
+Oct 17 19:02 : update: added /Dinheiro e Putaria.mp3
+Oct 17 19:02 : update: added /Anota Placa.mp3
+Oct 17 19:02 : update: added /Fala na Cara.mp3
+Oct 17 19:02 : update: updating /Anota Placa.mp3
+Oct 17 19:02 : update: added /Qual é seu desejo.mp3
+Oct 17 19:03 : update: added /Poesia Acústica 13.mp3
+Oct 17 19:03 : update: added /Vizão de Cria 2.mp3
+Oct 17 19:04 : update: added /Nota Dó.mp3
+Oct 17 19:05 : update: added /Abusadão.mp3
+Oct 17 19:06 : update: removing Abusadão.mp3
+Oct 17 19:06 : update: removing Good Vibe.mp3
+Oct 17 19:06 : update: removing Fala na Cara.mp3
+Oct 17 19:06 : update: removing Engana Dizendo Que Ama.mp3
+Oct 17 19:06 : update: removing Cavalona.mp3
+Oct 17 19:06 : update: removing brinks.mp3
+Oct 17 19:06 : update: removing Anota Placa.mp3
+Oct 17 19:06 : update: removing Poesia Acústica 13.mp3
+Oct 17 19:06 : update: removing Nota Dó.mp3
+Oct 17 19:06 : update: removing Mirante.mp3
+Oct 17 19:06 : update: removing Met Gala.mp3
+Oct 17 19:06 : update: removing Lágrimas de Crocodilo.mp3
+Oct 17 19:06 : update: removing X1.mp3
+Oct 17 19:06 : update: removing Vizão de Cria 2.mp3
+Oct 17 19:06 : update: removing Vamo Marolar.mp3
+Oct 17 19:06 : update: removing Qual é seu desejo.mp3
+Oct 17 19:06 : update: added playlists/Trap/Engana Dizendo Que Ama.mp3
+Oct 17 19:06 : update: added playlists/Trap/Mirante.mp3
+Oct 17 19:06 : update: added playlists/Trap/Anota Placa.mp3
+Oct 17 19:06 : update: added playlists/Trap/Lágrimas de Crocodilo.mp3
+Oct 17 19:06 : update: added playlists/Trap/Poesia Acústica 13.mp3
+Oct 17 19:06 : update: added playlists/Trap/brinks.mp3
+Oct 17 19:06 : update: added playlists/Trap/Nota Dó.mp3
+Oct 17 19:06 : update: added playlists/Trap/Fala na Cara.mp3
+Oct 17 19:06 : update: added playlists/Trap/Qual é seu desejo.mp3
+Oct 17 19:06 : update: added playlists/Trap/Met Gala.mp3
+Oct 17 19:06 : update: added playlists/Trap/Vamo Marolar.mp3
+Oct 17 19:06 : update: added playlists/Trap/Vizão de Cria 2.mp3
+Oct 17 19:06 : update: added playlists/Trap/Good Vibe.mp3
+Oct 17 19:06 : update: added playlists/Trap/X1.mp3
+Oct 17 19:06 : update: added playlists/Trap/Cavalona.mp3
+Oct 17 19:06 : update: added playlists/Trap/Abusadão.mp3
+Oct 17 19:06 : update: removing Dinheiro e Putaria.mp3
+Oct 17 19:06 : update: removing Preto e Dinheiro.mp3
+Oct 17 19:06 : update: removing Mandona (Se eu te dissesse).mp3
+Oct 17 19:06 : update: added playlists/Trap/Mandona (Se eu te dissesse).mp3
+Oct 17 19:06 : update: added playlists/Trap/Preto e Dinheiro.mp3
+Oct 17 19:06 : update: added playlists/Trap/Dinheiro e Putaria.mp3
+Oct 17 19:06 : player: played "playlists/Trap/Meca Cereja.mp3"
+Oct 17 19:10 : player: played "playlists/Trap/Abusadão.mp3"
+Oct 17 19:14 : player: played "playlists/Trap/Anota Placa.mp3"
+Oct 17 19:16 : player: played "playlists/Trap/brinks.mp3"
+Oct 17 19:20 : player: played "playlists/Trap/Cavalona.mp3"
+Oct 17 19:22 : player: played "playlists/Trap/CONFISSÕES PT2.mp3"
+Oct 17 20:01 : player: played "playlists/Trap/Dinheiro e Putaria.mp3"
+Oct 23 07:46 : exception: Unsupported URI scheme
+Oct 23 07:46 : exception: Failed to open '/home/glherme/Music/playlists/[Radio Streams].m3u': No such file or directory
+Oct 23 07:46 : exception: No such playlist
+Oct 23 07:49 : player: played "playlists/Trap/Abusadão.mp3"
+Oct 23 07:53 : player: played "playlists/Trap/Anota Placa.mp3"
+Oct 23 07:56 : player: played "playlists/Trap/brinks.mp3"
+Oct 23 07:59 : player: played "playlists/Trap/Cartão Black.mp3"
+Oct 23 09:51 : player: played "playlists/Trap/Carta pra Deus.mp3"
+Oct 24 23:42 : exception: Unsupported URI scheme
+Oct 24 23:42 : exception: Failed to open '/home/glherme/Music/playlists/[Radio Streams].m3u': No such file or directory
+Oct 24 23:42 : exception: No such playlist
+Oct 24 23:45 : player: played "playlists/Trap/Abusadão.mp3"
+Oct 25 01:33 : player: played "playlists/Trap/Anota Placa.mp3"
